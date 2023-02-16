@@ -1,14 +1,14 @@
 # INSTALL TERMUX
-apt upgrade
+- `apt upgrade`
 
-pkg install python
+- `pkg install python`
 
-pkg install git
+- `pkg install git`
 
-git clone https://github.com/salimsarker2005/Termux
+- `git clone https://github.com/salimsarker2005/Termux`
 
- cd Termux
+- `cd Termux`
 
-python Fuck_baby.py
+- `python Fuck_baby.py`
 
 
